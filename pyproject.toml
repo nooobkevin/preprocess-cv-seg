@@ -1,0 +1,18 @@
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "hei.chtai", email = "nooobkevin@gmail.com"},
+]
+dependencies = [
+    "numpy>=1.25.2",
+    "opencv-python>=4.8.1.78",
+    "torch>=2.0.1",
+    "torchvision>=0.15.2",
+    "dlib>=19.24.2",
+]
+requires-python = ">=3.9"
+readme = "README.md"
+license = {text = "MIT"}
+
